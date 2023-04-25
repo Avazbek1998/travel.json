@@ -8,7 +8,7 @@
       "text": "7 Days Tour on 2 person",
       "price": "620$",
       "more": "View More",
-      "id": "1"
+      "id": 1
     },
     {
       "img": "/img/vacation2.svg",
@@ -18,7 +18,7 @@
       "text": "4 days 2 person",
       "price": "780$",
       "more": "View More",
-      "id": "2"
+      "id": 2
     },
     {
       "img": "/img/vacation3.svg",
@@ -28,7 +28,7 @@
       "text": "4 days 4 person",
       "price": "850$",
       "more": "View More",
-      "id": "3"
+      "id": 3
     },
     {
       "img": "/img/vacation4.svg",
@@ -38,7 +38,7 @@
       "text": "7 Days Tour on 2 person",
       "price": "620$",
       "more": "View More",
-      "id": "4"
+      "id": 4
     },
     {
       "img": "/img/vacation5.svg",
@@ -48,7 +48,7 @@
       "text": "7 Days Tour on 2 person",
       "price": "620$",
       "more": "View More",
-      "id": "5"
+      "id": 5
     },
     {
       "img": "/img/vacation1.svg",
@@ -58,7 +58,7 @@
       "text": "7 Days Tour on 2 person",
       "price": "820$",
       "more": "View More",
-      "id": "6"
+      "id": 6
     },
     {
       "img": "/img/vacation1.svg",
@@ -68,7 +68,7 @@
       "text": "7 Days Tour on 2 person",
       "price": "550$",
       "more": "View More",
-      "id": "7"
+      "id": 7
     },
     {
       "img": "/img/vacation1.svg",
@@ -78,7 +78,7 @@
       "text": "7 Days Tour on 2 person",
       "price": "310$",
       "more": "View More",
-      "id": "8"
+      "id": 8
     }
   ]
 }
